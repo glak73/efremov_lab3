@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.container {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 50px;
+margin-right: 50px;
+}
+.container-column {
+    display: flex;
+    flex-direction: column;
+}
+.chess_board_image {
+    width: 250px;
+    height: 250px;
+    margin-top: 75px;
+    margin-right: 100px;
+}
+.table_image {
+    width: 150px;
+    height: 150px;
+}
+.table_text_block {
+    width: 200px;
+}
+.advantages_h3 {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.content {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 150px;
+}
